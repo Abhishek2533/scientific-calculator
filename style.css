@@ -14,7 +14,7 @@ body{
 .main {
     position: absolute;
     cursor: pointer;
-    min-width: 48%;
+    min-width: 60%;
     min-height: 70%;
     overflow: hidden;
     border-radius: 20px;
