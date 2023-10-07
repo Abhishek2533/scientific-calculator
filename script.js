@@ -17,7 +17,7 @@ for (item of input) {
     });
 }
 
-screen.addEventListener('keypress', function(event) {
+screen.value.addEventListener('keypress', function(event) {
   if (event.key === 'Enter') {
     Evaluate();
   }
