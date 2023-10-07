@@ -17,13 +17,6 @@ for (item of input) {
     });
 }
 
-screen.value.addEventListener('keypress', function(event) {
-  if (event.key === 'Enter') {
-    Evaluate();
-  }
-});
-
-
 //all clear function
 function Ac() {
     screen.value = "";
