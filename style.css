@@ -118,11 +118,11 @@ body{
     transform: scale(1.1);
 }
 
-/* 
+
 @media screen and (max-width:750px) {
     .main{
         min-height: 50%;
-        min-width: 50%;
+        min-width: 80%;
     }
 
     .display {
@@ -137,4 +137,4 @@ body{
     .row button {
         min-height: 3vh;
     }
-} */
+}
